@@ -1,4 +1,4 @@
-package br.com.githubapi
+package br.com.githubapi.presetantion
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
