@@ -1,102 +1,16 @@
 [
   {
-    "id": 1,
     "title": "Lovely Daisy",
     "desc": "Transporte-se para uma era de paz, amor e estilo com a festa Lovely Daisy! Inspirada na icônica margarida dos anos 70, esta celebração promete trazer toda a essência da contracultura e da estética da época. Vista suas melhores roupas vintage, deixe seu espírito livre florescer e junte-se a nós para uma noite cheia de cores, música contagiante e vibrações positivas. A Lovely Daisy trará de volta a simplicidade, a pureza e a alegria da margarida, símbolo inconfundível da era dourada dos anos 70. Não perca essa oportunidade de reviver a magia da época e criar memórias inesquecíveis em uma festa cheia de encanto e nostalgia!",
     "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/OmoZoDAqVKED7G7OwalbUnZngy65CP89TI6vCnET.jpeg",
     "price": 150,
-    "day": "Qua, 27 de Dezembro de 2023",
-    "hour": "Abertura: 16:00 • Início: 16:00",
-    "location": "Amaité Praia • Balneário Camboriú, SC"   
+    "day_hour_local": "Qua, 27 de Dezembro de 2023&Abertura: 16:00 • Início: 16:00& Amaité Praia • Balneário Camboriú, SC"
   },
   {
-    "id": 2,
     "title": "Renato Albani",
     "desc": "AO VIVO É BEM MELHOR! Venha dar muita risada com um dos melhores comediantes do Brasil!",
     "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/Nh6VGhLVdUgEi5vX1PJ3omkZlJSm3cHIhgcnLu8E.jpeg",
     "price": 210,
-    "day": "Sáb, 30 de Dezembro de 2023",
-    "hour": "Abertura: 23:00 • Início: 23:30",
-    "location": "Hotel Sibara Flat & Convenções • Balneário Camboriú, SC"   
-  },
-  {
-    "id": 3,
-    "title": "Mari Fernandez | Hugo e Guilherme",
-    "desc": "Com apenas 22 anos de idade e dois anos de carreira, Mari Fernandez já é considerada uma das grandes vozes femininas da música brasileira. Provando seu talento e versatilidade como cantora e compositora, ela soma mais de 12 milhões de ouvintes no Spotify, mais de 02 bilhões de visualizações no Youtube, mais de 03 Bilhões de streams nas plataformas de música e 10 Milhões de Seguidores nas redes sociais. Além disso, lançou também sua label “Mari Sem Fim”, que lotou estádios arrastando mais de 120 mil pessoas que curtiram essa experiência sem hora para terminar.",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/JNBybT26GxET2x3Z3gHBQ3T0dv09rIna8iBk9SWL.jpeg",
-    "price": 240,
-    "day": "Dom, 31 de Dezembro de 2023",
-    "hour": "Abertura: 21:00",
-    "location": "Stage Music Park • Florianópolis, SC"   
-  },
-  {
-    "id": 4,
-    "title": "Solteiro Não Trai",
-    "desc": "Após o sucesso do bloco ‘Solteiro Não Trai’, durante o carnaval de São Paulo, Gustavo Mioto se prepara para levar a festa para outros cantos do Brasil. Com data anunciada em Nova Lima, Minas Gerais, no dia 5 de agosto, e Juiz de Fora, dia 26 do mesmo mês, Gustavo inicia os trabalhos pelo país.",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/KadWxrt0BYmCJASFb2k8sVIk1JFlknKWmB5GLkQZ.jpeg",
-    "price": 130,
-    "day": "Sáb, 06 de Janeiro de 2024",
-    "hour": "Abertura: 20:00",
-    "location": "Stage Music Park • Florianópolis, SC"   
-  },
-  {
-    "id": 5,
-    "title": "É o Tchan 30 anos",
-    "desc": "É o Tchan! é um grupo musical brasileiro de Pagode formado em 1994 pelos cantores Beto Jamaica e Compadre Washington. Originalmente, além dos vocalistas, tinha como dançarinos Carla Perez, Débora Brasil e Jacarés. Depois de alguns anos os três estão de volta ao grupo para a comemoração dos 30 anos de carreira da banca.",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/dlckfblRj8dAqXQJ1Erj8iCshh4DdxOxzxvd3oJH.jpeg",
-    "price": 90,
-    "day": "Sex, 12 de Janeiro de 2024",
-    "hour": "Abertura: 21:00",
-    "location": "Stage Music Park • Florianópolis, SC"   
-  },
-  {
-    "id": 6,
-    "title": "Josh David Barrett",
-    "desc": "ONE LOVE - A Festa Reggae do Verão em Floripa. Atração Internacional: JOSH DAVID BARRETT (ex vocalista The Wailers)",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/1nyIE35b8RQQNf6Uj66JMDRW25Von1dMuji4dF7u.jpeg",
-    "price": 90,
-    "day": "Sáb, 13 de Janeiro de 2024",
-    "hour": "Abertura: 15:00 • Início: 15:00",
-    "location": "Lagoa Iate Clube - LIC • Florianópolis, SC"   
-  },
-  {
-    "id": 7,
-    "title": "Raça Negra 40 anos",
-    "desc": "Raça Negra comemora seus 40 anos de carreira no Palco do Stage Music Park, prometendo reviver o melhor dos anos 1990, com um repertório repleto de hits que embalaram gerações.",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/MRFcmuchCrEVG8ht8jRl4SgboFedPT3zFNz1DmkZ.jpeg",
-    "price": 90,
-    "day": "Sex, 19 de Janeiro de 2024",
-    "hour": "Abertura: 21:00",
-    "location": "Stage Music Park • Florianópolis, SC"   
-  },
-  {
-    "id": 8,
-    "title": "Nando Reis & Nenhum de Nós",
-    "desc": "É o Tchan! é um grupo musical brasileiro de Pagode formado em 1994 pelos cantores Beto Jamaica e Compadre Washington. Originalmente, além dos vocalistas, tinha como dançarinos Carla Perez, Débora Brasil e Jacarés. Depois de alguns anos os três estão de volta ao grupo para a comemoração dos 30 anos de carreira da banca.",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/hXcZM15yc6jLnnzPerCkaZrgIOlhVnRvgNnyPgEU.jpeg",
-    "price": 90,
-    "day": "Sex, 02 de Fevereiro de 2024",
-    "hour": "Abertura: 21:00",
-    "location": "LIVE - Music Park BC • Balneário Camboriú, SC"   
-  },
-  {
-    "id": 9,
-    "title": "Floripa Rock 2024",
-    "desc": "Floripa Rock está de volta ao Stage Music Park. Os fãs do rock nacional já tem um encontro marcado para o verão de 2024. O Stage Music Park, em Jurerê Internacional, irá receber a segunda edição do Floripa Rock , no sábado, dia 3 de fevereiro de 2024. ",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/3mjVKTyTuvXymSNN3EPuTUZUGSHgDcyj9h6Elnct.jpeg",
-    "price": 90,
-    "day": "Sáb, 03 de Fevereiro de 2024",
-    "hour": "Abertura: 18:00",
-    "location": "Stage Music Park • Florianópolis, SC"   
-  },
-  {
-    "id": 10,
-    "title": "SPC em Blumenau",
-    "desc": "Após anos de expectativa, Alexandre Pires e Só Pra Contrariar estão juntos novamente para uma turnê de despedida do cantor do grupo. O anúncio do tão aguardado retorno aos palcos aconteceu durante o especial “Som Brasil apresenta: Alexandre Pires”, na TV Globo. ",
-    "image_url": "https://d2hnilqqbw3vnf.cloudfront.net/images/imagens/full/LBhyVMZQgCz6WUJAMY9GKgg0mHFtH2uIs12NCcsS.jpeg",
-    "price": 90,
-    "day": "Sex, 24 de Maio de 2024",
-    "hour": "Abertura: 20:00",
-    "location": "Parque Vila Germânica • Blumenau, SC"   
-  }  
+    "day_hour_local": "Sáb, 30 de Dezembro de 2023&Abertura: 23:00 • Início: 23:30&Hotel Sibara Flat & Convenções • Balneário Camboriú, SC"
+  }
 ]
